@@ -46,3 +46,5 @@
 ---
 
 > **免責事項**: 本ツールは個人的な学習やオフラインでの視聴を目的として使用してください。著作権を侵害する行為には利用しないでください。
+
+![Views](https://count.getloli.com/get/@classcit_gist_993ba298?theme=moebooru)
